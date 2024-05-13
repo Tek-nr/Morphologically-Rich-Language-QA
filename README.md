@@ -1,1 +1,1 @@
-# Morphologically-Rich-Language-for-QA
+# Morphologically-Rich-Language-QA
